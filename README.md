@@ -3,6 +3,8 @@
 ![data to postgres](images/coovpgdockpython.png)
 Dans cette vidéo, je te montre comment charger **près de 3 000 000 de lignes de données** dans **PostgreSQL** en utilisant **Python**. Tout cela est réalisé sur une **petite machine** Play with Docker (PWD), démontrant ainsi comment manipuler de grandes quantités de données avec des ressources limitées.
 
+YT : https://youtu.be/Qt7uwKo3ms4?si=vJjFudPIpP1JACaP
+
 ## 📌 Ce que tu vas apprendre
 ✔ Comment configurer un **serveur PostgreSQL** avec Docker  
 ✔ Comment générer et insérer efficacement **des millions de lignes** avec Python  
